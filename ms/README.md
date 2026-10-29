@@ -19,4 +19,4 @@ Byggentreprenör i Göteborg med dränering, markarbeten och anläggning. 20+ å
 
 - **Joint regional guide:** [github.com/Webraketen/markarbeten-goteborg](https://github.com/Webraketen/markarbeten-goteborg) (with [ES Sten och Anläggning](https://esstenochanlaggning.se))
 - **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
-- **Other Webraketen Göteborg fleet:** [Städly](https://stadly.nu) · [Hemstäd Göteborg](https://hemstadgoteborg.com)
+- **Other Webraketen Göteborg fleet:** [Städly](https://stadly.nu)

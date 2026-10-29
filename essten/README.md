@@ -19,4 +19,4 @@ Stensättning, plattläggning, stödmurar, dränering. 20+ års erfarenhet i Gö
 
 - **Joint regional guide:** [github.com/Webraketen/markarbeten-goteborg](https://github.com/Webraketen/markarbeten-goteborg) (with [MS Entreprenad](https://msentreprenad.se))
 - **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
-- **Other Webraketen Göteborg fleet:** [Städly](https://stadly.nu) · [Hemstäd Göteborg](https://hemstadgoteborg.com) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se)
+- **Other Webraketen Göteborg fleet:** [Städly](https://stadly.nu) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se)

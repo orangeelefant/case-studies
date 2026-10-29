@@ -17,4 +17,4 @@ Hemstädning från 199 kr/tim med RUT, flyttstädning, fönsterputs, kontorsstä
 ## Related
 
 - **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
-- **Other Webraketen cleaning fleet in Göteborg:** [Städly](https://stadly.nu) · [Theresas Städ](https://theresasstad.se) · [Tittis Städ](https://tittisstad.se) · [Fastpris Städ Göteborg](https://fastprisstad.se) · [Hemstäd Göteborg](https://hemstadgoteborg.com) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se) · [Hittaflyttstädning](https://hittaflyttstadning.se)
+- **Other Webraketen cleaning fleet in Göteborg:** [Städly](https://stadly.nu) · [Theresas Städ](https://theresasstad.se) · [Tittis Städ](https://tittisstad.se) · [Fastpris Städ Göteborg](https://fastprisstad.se) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se) · [Hittaflyttstädning](https://hittaflyttstadning.se)

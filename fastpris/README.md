@@ -18,4 +18,4 @@ Kontorsstäd, företagsstäd, lokalvård, hemstäd and flyttstäd in Göteborg t
 ## Related
 
 - **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
-- **Other Webraketen cleaning fleet:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Theresas Städ](https://theresasstad.se) · [Tittis Städ](https://tittisstad.se) · [Hemstäd Göteborg](https://hemstadgoteborg.com) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se) · [Hittaflyttstädning](https://hittaflyttstadning.se)
+- **Other Webraketen cleaning fleet:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Theresas Städ](https://theresasstad.se) · [Tittis Städ](https://tittisstad.se) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se) · [Hittaflyttstädning](https://hittaflyttstadning.se)

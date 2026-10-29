@@ -21,4 +21,4 @@ Personal — Theresa is the founder, the brand carries her name. The site reflec
 ## Related
 
 - **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
-- **Sister cleaning companies in Göteborg:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Tittis Städ](https://tittisstad.se) · [Fastpris Städ Göteborg](https://fastprisstad.se) · [Hemstäd Göteborg](https://hemstadgoteborg.com) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se) · [Hittaflyttstädning](https://hittaflyttstadning.se)
+- **Sister cleaning companies in Göteborg:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Tittis Städ](https://tittisstad.se) · [Fastpris Städ Göteborg](https://fastprisstad.se) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se) · [Hittaflyttstädning](https://hittaflyttstadning.se)

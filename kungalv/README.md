@@ -21,4 +21,4 @@ The site has a `/recept` section that scales — content marketing tied directly
 ## Related
 
 - **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
-- **Local Göteborg/Kungälv ecosystem:** [Städly](https://stadly.nu) · [Hemstäd Göteborg](https://hemstadgoteborg.com) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se)
+- **Local Göteborg/Kungälv ecosystem:** [Städly](https://stadly.nu) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se)

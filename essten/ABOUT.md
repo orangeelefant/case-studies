@@ -8,7 +8,7 @@ Sites we build, host, and operate:
 
 ### Cleaning vertical (Göteborg)
 - [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Theresas Städ](https://theresasstad.se) · [Tittis Städ](https://tittisstad.se)
-- [Fastpris Städ Göteborg](https://fastprisstad.se) · [Hemstäd Göteborg](https://hemstadgoteborg.com) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se)
+- [Fastpris Städ Göteborg](https://fastprisstad.se) · [Flyttstäd Göteborg](https://flyttstadgoteborg.se)
 - [Hittaflyttstädning](https://hittaflyttstadning.se)
 
 ### Construction
